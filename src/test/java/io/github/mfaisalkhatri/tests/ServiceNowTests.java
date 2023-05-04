@@ -25,7 +25,7 @@ public class ServiceNowTests extends BaseTest {
 
     public void setup () {
         getDriver ().navigate ()
-            .to ("https://dev21190.service-now.com/");
+            .to ("https://dev111463.service-now.com/");
     }
 
     @Test
